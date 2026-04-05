@@ -1,0 +1,24 @@
+{
+  "name": "Vita Nativa – Campo",
+  "short_name": "Vita Nativa",
+  "description": "Recolha de dados de campo – Associação Vita Nativa",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a0600",
+  "theme_color": "#1a0600",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
